@@ -65,11 +65,9 @@ Runs on: http://localhost:3000
 
 ---
 
-## 🎥 Demo
+## 📄 Technical Report
 
-(You will add your video link here)
-
----
+[Download the report](./Final%20Rapport%20omar%201.pdf)
 
 ## 👤 Author
 
